@@ -1,0 +1,32 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "firstName": "Safayet",
+      "lastName": "Shafi",
+      "email": "safayet22@gmail.com",
+      "mobile": 1521408126,
+      "salary": "10000"
+    },
+    {
+      "id": 2,
+      "firstName": "Emzaz",
+      "lastName": "ahmed",
+      "email": "emzaz@gmail.com",
+      "mobile": 12145544785,
+      "salary": "35000"
+    },
+    {
+      "id": 3,
+      "firstName": "Shuvo",
+      "lastName": "Talukdar",
+      "email": "fvdsv",
+      "mobile": 5421,
+      "salary": "12000"
+    }
+  ],
+  "comments": [],
+  "profile": {
+    "name": "typicode"
+  }
+}
